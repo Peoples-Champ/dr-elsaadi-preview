@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /dr-elsaadi-preview/
+Disallow: /dr-elsaadi-preview/launch-checklist
+Sitemap: https://peoples-champ.github.io/dr-elsaadi-preview/sitemap.xml
